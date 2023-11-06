@@ -41,6 +41,7 @@ Besides this, the v2 of our protocol also gives the flexibility to use multiple 
 - OneInch
 - ParaSwap
 - ZeroEx
+- Kyber
 
 **5. Interfaces** : This directory contains general interfaces that are used in the codebase.
 
